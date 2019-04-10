@@ -1,1 +1,1 @@
-testujemy czy dziala
+testujemy czy dzialasz
